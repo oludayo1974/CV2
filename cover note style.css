@@ -1,0 +1,46 @@
+.past-future{
+    color: rgb(165, 17, 145);
+}
+
+.conclusion{
+    color: rgb(165, 17, 145);
+}
+
+.fagbemi{
+    color: blue;
+    margin: 0px;
+    position: relative;
+    left: 150px;
+    top: 40px;
+   
+}
+
+
+body{
+   text-align: justify;
+   width: 60%;
+   margin: auto;
+   line-height: 2;
+}
+
+
+
+.cover{
+    color: rgb(165, 17, 145);
+   
+}
+
+.headings{
+    color: rgb(165, 17, 145);
+    margin: 30px;
+   
+}
+
+.website{
+    color: blue;
+}
+
+
+.myself{
+    color: blue;
+}

@@ -1,0 +1,238 @@
+body{
+  margin: 50px;
+}
+
+
+hr{
+    width: 5%;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    
+
+}
+
+a{
+    color:#066366;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.certified{
+    width: 50%;
+    margin: 20px;
+    clear: right;
+    padding-top: 70px;
+}
+
+.data{
+    line-height: 2;
+   margin-left: 30%;
+   clear: left;
+   width: 60%;
+   padding-right: 200px;
+    
+}
+
+.pics{
+    float: left;
+    margin: 20px;
+
+}
+
+.my-education{
+    line-height: 2;
+}
+
+.career-cert{
+    line-height: 2;
+}
+
+.skills{
+    line-height: 2;
+}
+
+.on-the-job{
+    line-height: 2;
+}
+
+.experience{
+    line-height: 2;
+    width: 70%;
+}
+
+.projects{
+    line-height: 2;
+    width: 70%;
+}
+
+.contact-me{
+    margin: 40px 500px 60px;
+    
+}
+
+.copyright{
+  color: EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+
+.first-container{
+    width: 70%;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 10px 0 5px;
+
+}
+
+footer-link{
+   
+}
+
+
+.btn {
+  background: #2071a8;
+  background-image: -webkit-linear-gradient(top, #2071a8, #546975);
+  background-image: -moz-linear-gradient(top, #2071a8, #546975);
+  background-image: -ms-linear-gradient(top, #2071a8, #546975);
+  background-image: -o-linear-gradient(top, #2071a8, #546975);
+  background-image: linear-gradient(to bottom, #2071a8, #546975);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #65d665;
+  background-image: -webkit-linear-gradient(top, #65d665, #13a8ad);
+  background-image: -moz-linear-gradient(top, #65d665, #13a8ad);
+  background-image: -ms-linear-gradient(top, #65d665, #13a8ad);
+  background-image: -o-linear-gradient(top, #65d665, #13a8ad);
+  background-image: linear-gradient(to bottom, #65d665, #13a8ad);
+  text-decoration: none;
+}
+
+  .journey {
+    background: #2071a8;
+    background-image: -webkit-linear-gradient(top, #2071a8, #546975);
+    background-image: -moz-linear-gradient(top, #2071a8, #546975);
+    background-image: -ms-linear-gradient(top, #2071a8, #546975);
+    background-image: -o-linear-gradient(top, #2071a8, #546975);
+    background-image: linear-gradient(to bottom, #2071a8, #546975);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .journey:hover {
+    background: #65d665;
+    background-image: -webkit-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -moz-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -ms-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -o-linear-gradient(top, #65d665, #13a8ad);
+    background-image: linear-gradient(to bottom, #65d665, #13a8ad);
+    text-decoration: none;
+  }
+
+  .cover {
+    background: #2071a8;
+    background-image: -webkit-linear-gradient(top, #2071a8, #546975);
+    background-image: -moz-linear-gradient(top, #2071a8, #546975);
+    background-image: -ms-linear-gradient(top, #2071a8, #546975);
+    background-image: -o-linear-gradient(top, #2071a8, #546975);
+    background-image: linear-gradient(to bottom, #2071a8, #546975);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .cover:hover {
+    background: #65d665;
+    background-image: -webkit-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -moz-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -ms-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -o-linear-gradient(top, #65d665, #13a8ad);
+    background-image: linear-gradient(to bottom, #65d665, #13a8ad);
+    text-decoration: none;
+  }
+
+  .hobby {
+    background: #2071a8;
+    background-image: -webkit-linear-gradient(top, #2071a8, #546975);
+    background-image: -moz-linear-gradient(top, #2071a8, #546975);
+    background-image: -ms-linear-gradient(top, #2071a8, #546975);
+    background-image: -o-linear-gradient(top, #2071a8, #546975);
+    background-image: linear-gradient(to bottom, #2071a8, #546975);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .hobby:hover {
+    background: #65d665;
+    background-image: -webkit-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -moz-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -ms-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -o-linear-gradient(top, #65d665, #13a8ad);
+    background-image: linear-gradient(to bottom, #65d665, #13a8ad);
+    text-decoration: none;
+  }
+
+
+  .contact {
+    background: #2071a8;
+    background-image: -webkit-linear-gradient(top, #2071a8, #546975);
+    background-image: -moz-linear-gradient(top, #2071a8, #546975);
+    background-image: -ms-linear-gradient(top, #2071a8, #546975);
+    background-image: -o-linear-gradient(top, #2071a8, #546975);
+    background-image: linear-gradient(to bottom, #2071a8, #546975);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .contact:hover {
+    background: #65d665;
+    background-image: -webkit-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -moz-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -ms-linear-gradient(top, #65d665, #13a8ad);
+    background-image: -o-linear-gradient(top, #65d665, #13a8ad);
+    background-image: linear-gradient(to bottom, #65d665, #13a8ad);
+    text-decoration: none;
+  }
+
+
+  
