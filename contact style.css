@@ -1,6 +1,18 @@
+.body{
+    padding: 10px;
+}
+
 .phone{
-  
-    position: relative;
-    left: 50px;
+
+    width: 100%;
+ 
+
+}
+
+.contact-me{
+    background-color: rgb(87, 81, 85);
+    
+    width: 100%;
+   
 
 }
