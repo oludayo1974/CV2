@@ -1,4 +1,59 @@
-body{
+.body{
     width: 70%;
     margin: auto;
+    color: #fff;
+    line-height: 1.5;
+    margin: 2%;
+}
+
+.career{
+    background-color: rgba(68, 70, 71, 0.849);
+    color: #fff;
+    margin: 2%;
+    
+}
+
+.started{
+    background-color: rgb(6, 7, 10);
+    padding: 5px 5px;
+    color: #fff;
+    margin: 2%;
+}
+
+.appointment{
+    
+    padding: 5px 5px;
+    color: #fff;
+    margin: 2%;
+}
+
+.achievement{
+    background-color:  rgb(23, 23, 26);
+    padding: 5px 5px;
+    color: #fff;
+    margin: 2%;
+}
+
+.conceptual{
+    
+    padding-top: 5px;
+    color: #fff;
+    margin: 2%;
+}
+
+.technical{
+    background-color:  rgb(23, 23, 26);
+    padding: 5px 5px;
+    color: #fff;
+    margin: 2%;
+}
+
+.conclusion{
+    
+    color: #fff;
+    margin: 2%;
+}
+
+.my-pix{
+    margin: 10px;
 }
