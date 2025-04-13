@@ -1,46 +1,63 @@
-.past-future{
-    color: rgb(165, 17, 145);
-}
-
-.conclusion{
-    color: rgb(165, 17, 145);
+.body{
+   width: 80%;
+   line-height: 2;
+   margin: 5%;
 }
 
 .fagbemi{
     color: blue;
-    margin: 0px;
-    position: relative;
-    left: 150px;
+    margin: 2%;
+   
     top: 40px;
+    text-align: left;
    
 }
 
+.note{
+width: 80%;
+margin: 2%;
 
-body{
-   text-align: justify;
-   width: 60%;
-   margin: auto;
-   line-height: 2;
 }
 
+.past-future{
+width: 80%;
+margin: 2%;
 
-
-.cover{
-    color: rgb(165, 17, 145);
-   
 }
+
+  
+.story{
+    width: 80%;
+    margin: 2%;
+}
+
 
 .headings{
-    color: rgb(165, 17, 145);
-    margin: 30px;
+    text-align: left;
+    margin: 2%;
+    
    
 }
 
 .website{
-    color: blue;
+   
+    margin: 20px;
 }
+
+.cover{
+    position: relative;
+    left: 450px;
+
+}
+
 
 
 .myself{
     color: blue;
+    margin: 2%;
+}
+
+.years{
+    width: 80%;
+    margin: 2%;
 }
