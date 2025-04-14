@@ -1,5 +1,5 @@
 .body{
-   width: 100%;
+   width: 90%;
    line-height: 2;
    margin: 5%;
 }
@@ -14,20 +14,20 @@
 }
 
 .note{
-width: 100%;
+width: 90%;
 margin: 2%;
 
 }
 
 .past-future{
-width: 100%;
+width: 90%;
 margin: 2%;
 
 }
 
   
 .story{
-    width: 100%;
+    width: 90%;
     margin: 2%;
 }
 
@@ -58,6 +58,6 @@ margin: 2%;
 }
 
 .years{
-    width: 100%;
+    width: 90%;
     margin: 2%;
 }
