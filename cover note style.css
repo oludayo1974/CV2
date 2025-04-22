@@ -1,34 +1,53 @@
-.body{
-   width: 100%;
-   line-height: 2;
-   margin: 5%;
+body{
+    background-color: #04385a;
+    color: #fff;
+   width: 70%;
+   line-height: 1.5;
+   padding: 3%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+}
+
+.head{
+    line-height: 1;
 }
 
 .fagbemi{
-    color: blue;
+    color: #fff;
     margin: 2%;
    
     top: 40px;
     text-align: left;
    
 }
+   
+
 
 .note{
-width: 100%;
+width: 95%;
 margin: 2%;
 
+background-color: #1673c0;
+padding: 2rem 1rem 1rem;
 }
 
+
+
 .past-future{
-width: 100%;
+width: 95%;
 margin: 2%;
+
+padding: 2rem 1rem 1rem;
+
 
 }
 
   
 .story{
-    width: 100%;
+    width: 95%;
     margin: 2%;
+   
+
 }
 
 
@@ -36,6 +55,7 @@ margin: 2%;
     text-align: left;
     margin: 2%;
     
+
    
 }
 
@@ -45,19 +65,30 @@ margin: 2%;
 }
 
 .cover{
-    position: relative;
-    left: 450px;
+    text-align: left;
+    margin: 17px;
+   
 
 }
 
 
 
 .myself{
-    color: blue;
+    color: #fff;
     margin: 2%;
+    line-height: 1;
 }
 
 .years{
-    width: 100%;
+    width: 95%;
     margin: 2%;
+    
+    background-color: #1673c0;
+    padding: 2rem 1rem 1rem;
+
+}
+
+
+.thank{
+    padding: 2rem 1rem 1rem;
 }
