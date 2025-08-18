@@ -44,6 +44,12 @@ a:hover {
 
 }
 
+.experience{
+    line-height: 2;
+    width: 70%;
+}
+
+
 .my-education{
     line-height: 2;
 }
@@ -233,6 +239,7 @@ footer-link{
     background-image: linear-gradient(to bottom, #65d665, #13a8ad);
     text-decoration: none;
   }
+
 
 
   
